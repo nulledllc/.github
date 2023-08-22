@@ -1,5 +1,5 @@
 # nulled.
-#### We're a different kind of hosting provider — one that believes in the original vision of the internet. It's this core belief that drives everything we do.
+#### We're a different kind of hosting provider.
 
 ---
 
